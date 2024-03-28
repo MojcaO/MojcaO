@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MojcaO
-- 👀 I’m interested in data analysis and a bunch of other things.
-- 🌱 I’m currently looking for work!
+- 👋 Hi, I’m @MojcaO! I like learning things.
+- 👀 I’m interested in back-end development, data analysis and a bunch of other topics.
+- 🌱 I’m currently looking for work! Please note that most of my work is not public on github but I'm happy to talk about it directly.
 - 📫 You can reach me at mojca (dot) org at gmail.com
 <!---
 MojcaO/MojcaO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
